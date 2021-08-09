@@ -23,8 +23,3 @@ debut = time.time()
 print(mot_aleatoire())
 print(" Durée : " + str(time.time() - debut) + " secondes")
 
-<<<<<<< HEAD
-Retest
-=======
-test
->>>>>>> a092ad0 (trainnning python security2)
